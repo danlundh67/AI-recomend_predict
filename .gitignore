@@ -127,6 +127,7 @@ venv/
 ENV/
 Data1/
 Data2/
+Data3/
 
 env.bak/
 venv.bak/
